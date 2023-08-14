@@ -1,0 +1,62 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_Resultado&Sequence_1",
+        "int_Numero1&Sequence_1",
+        "int_Numero2&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_NumeroMin&Sequence_1",
+        "int_NumeroMax&Sequence_1",
+        "_out_ForEach_Generic_1_1__CurrentIndex&Sequence_1",
+        "arr_ArrayNumero&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_FechaLimiteDeAcumulacion&Sequence_1",
+        "arr_Fechas&Sequence_1",
+        "dic_Ventas&Sequence_1",
+        "int_VentaAcumulada&Sequence_1",
+        "str_DiaSemana&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio5.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arr_Numeros&Sequence_1",
+        "int_Suma&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
