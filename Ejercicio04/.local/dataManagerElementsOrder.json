@@ -1,0 +1,74 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_TipoCambioVenta&Sequence_1",
+        "str_TipoCambioCompra&Sequence_1",
+        "str_UrlTipoCambioSBS&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_MessageFacebook&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arr_ArregloNombres&Sequence_1",
+        "str_Url&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Desafio5.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_ExisteBotonConsultar&Sequence_1",
+        "Td1&Sequence_1",
+        "Td&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
